@@ -22,8 +22,8 @@ This repository provides a simple implementation of Mini-Batch Gradient Descent 
 
 ## Contents
 
-- `Mini-Batch-Gradient-Descent.ipynb`: Jupyter Notebook containing the implementation of polynomial regression using Python.
-- `bmi_and_life_expectancy.csv`: Sample dataset used in the notebook for demonstration purposes.
+- `Mini-Batch Gradient Descent.ipynb`: Jupyter Notebook containing the implementation of polynomial regression using Python.
+- `data.csv`: Sample dataset used in the notebook for demonstration purposes.
 - `README.md`: This file providing an overview of the repository.
 
 
@@ -51,10 +51,10 @@ git clone https://github.com/BaraSedih11/Mini-Batch-Gradient-Descent.git
 2. Navigate to the repository directory:
 
 ```bash
-cd Mini-Batch-Gradient-Descent
+cd Mini-Batch Gradient Descent
 ```
 
-3. Open and run the Jupyter Notebook `Mini-Batch-Gradient-Descent.ipynb` using Jupyter Notebook or JupyterLab.
+3. Open and run the Jupyter Notebook `Mini-Batch Gradient Descent.ipynb` using Jupyter Notebook or JupyterLab.
 
 4. Follow along with the code and comments in the notebook to understand how polynomial regression is implemented using Python.
 
