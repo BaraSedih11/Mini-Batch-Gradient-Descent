@@ -12,5 +12,12 @@
   
 </div>
 
-In this challenge, you'll be given the following sample dataset (as in data.csv), and your goal is to write a function that executes mini-batch gradient descent to find a best-fitting regression line. You might consider looking into numpy's matmul function for this!
+This repository contains an implementation of Mini-Batch Gradient Descent, a variant of the Gradient Descent optimization algorithm often used in machine learning and deep learning. Mini-Batch Gradient Descent is particularly useful when dealing with large datasets, as it updates the model's parameters using a subset of the training data at each iteration.
+
+## Introduction
+
+Gradient Descent is a popular optimization algorithm used to minimize the loss function in machine learning models by iteratively moving towards the minimum of the loss function. Mini-Batch Gradient Descent is a variation of this algorithm where instead of computing the gradient of the entire dataset (Batch Gradient Descent) or just one sample (Stochastic Gradient Descent), it computes the gradient based on a randomly selected subset of the training data (mini-batch). This approach combines the advantages of both Batch Gradient Descent and Stochastic Gradient Descent, making it suitable for large-scale datasets.
+
+This repository provides a simple implementation of Mini-Batch Gradient Descent in Python, along with examples demonstrating its usage.
+
 
